@@ -121,7 +121,8 @@
     "yallist": "^4.0.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "yarn start": "node app.js"
   },
   "author": "",
   "license": "ISC",
