@@ -122,7 +122,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "yarn start": "node app.js"
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
